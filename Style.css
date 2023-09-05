@@ -1,0 +1,36 @@
+/* Apply styles to the entire body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+/* Center align text and elements within the center tag */
+center {
+  text-align: center;
+}
+
+/* Style the h1 with the class "welcome" */
+h1.welcome {
+  font-size: 50px;
+  color: red;
+}
+
+/* Style the h3 with the class "top" */
+h3.top {
+  font-size: 24px;
+  color: green;
+}
+
+/* Style the span within the h3 */
+h3.top span {
+  font-weight: bold;
+  color: blue;
+}
+
+/* Style the image */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+ 
